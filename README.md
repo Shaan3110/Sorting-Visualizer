@@ -1,5 +1,5 @@
 # Sorting-Visualizer
-<p><b>Use the Tool : <a href="https://techieshouvik.github.io/Sorting-Visualizer/">Sorting Visualizer</a></b></p>
+<p><b>Use the Tool : <a href="https://shaan3110.github.io/Sorting-Visualizer/">Sorting Visualizer</a></b></p>
 <p>An easy to use Sorting Visualizer Tool for <b>Educational Use.</b></p>
 Built Completely in HTML, CSS, Javascript<br><br>
 <p align = "center">
